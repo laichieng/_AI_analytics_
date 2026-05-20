@@ -1,0 +1,6 @@
+{
+  "name": "AI 會議記錄生成與翻譯工具",
+  "description": "一鍵生成專業會議記錄、會議總結與待辦事項，並提供多國語言翻譯功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
